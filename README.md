@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Rohit Kumar Yadav
 
-<!--
-**Rohit-Y07/Rohit-Y07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer science student · Teaching & Research Assistant · Learning by building
 
-Here are some ideas to get you started:
+I’m a computer science undergraduate at **McNeese State University** in Lake Charles, Louisiana, originally from Nepal. I build small applications to understand how software works, and I enjoy helping classmates work through coding questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://rohit-yadav-portfolio.web.app/) · [Résumé](https://rohit-yadav-portfolio.web.app/assets/Rohit_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/rohit-yadav-3b543b281/)
+
+## What I’m working on
+
+- **Java, Python, and SQL:** strengthening my foundations in object-oriented programming, data structures, and relational databases.
+- **Teaching support:** assisting Dr. Vipin Menon with Introduction to Computer Science, Advanced DSA, and Introduction to Formal Languages.
+- **Personal tools:** experimenting with Momentum, a habit tracker, and a tech-news digest using AI-assisted development.
+- **Data analytics:** working through the Google Data Analytics certificate curriculum.
+
+## Selected projects
+
+| Project | What I explored | Tools |
+| --- | --- | --- |
+| Flappy Bird | Timer-driven updates, keyboard input, collisions, scoring, and restart behavior | Java, Swing |
+| AquaBliss Adventure Park Database | Admissions tables, keys, constraints, and basic data queries within a six-person team project | SQL Server, T-SQL |
+| Hangman | Word-file input, guess validation, pattern-matching hints, and game state | Python |
+| Momentum | Habit tracking and making daily progress visible | React, TypeScript, AI-assisted development |
+
+Read the [project stories on my portfolio](https://rohit-yadav-portfolio.web.app/#work) for my contributions and what I learned. My coursework projects were collaborative, and I used AI assistance during development.
+
+## A little more about me
+
+- **B.S. Computer Science:** expected May 2028 · GPA 3.68.
+- **Recognition:** President’s Honor List, Spring 2026.
+- **Community:** ACM member and Nepal Student Association event volunteer.
+- **Beyond code:** cricket, music, games, and learning Spanish—a **397-day Duolingo streak** so far.
+
+I’m interested in software engineering internships and opportunities to learn alongside thoughtful builders. Long term, I hope to contribute to Nepal’s technology community.
+
+**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/rohit-yadav-3b543b281/) or [my portfolio](https://rohit-yadav-portfolio.web.app/#contact).
