@@ -17,9 +17,9 @@ I’m a computer science undergraduate at **McNeese State University** in Lake C
 
 | Project | What I explored | Tools |
 | --- | --- | --- |
-| Flappy Bird | Timer-driven updates, keyboard input, collisions, scoring, and restart behavior | Java, Swing |
-| AquaBliss Adventure Park Database | Admissions tables, keys, constraints, and basic data queries within a six-person team project | SQL Server, T-SQL |
-| Hangman | Word-file input, guess validation, pattern-matching hints, and game state | Python |
+| [Flappy Bird](https://github.com/Rohit-Y07/flappy-bird-java) | Timer-driven updates, keyboard input, collisions, scoring, and restart behavior | Java, Swing |
+| [AquaBliss Adventure Park Database](https://github.com/Rohit-Y07/aquabliss-database) | Admissions tables, keys, constraints, and basic data queries within a six-person team project | SQL Server, T-SQL |
+| [Hangman](https://github.com/Rohit-Y07/hangman-python) | Word-file input, guess validation, pattern-matching hints, and game state | Python |
 | Momentum | Habit tracking and making daily progress visible | React, TypeScript, AI-assisted development |
 
 Read the [project stories on my portfolio](https://rohit-yadav-portfolio.web.app/#work) for my contributions and what I learned. My coursework projects were collaborative, and I used AI assistance during development.
@@ -29,7 +29,7 @@ Read the [project stories on my portfolio](https://rohit-yadav-portfolio.web.app
 - **B.S. Computer Science:** expected May 2028 · GPA 3.68.
 - **Recognition:** President’s Honor List, Spring 2026.
 - **Community:** ACM member and Nepal Student Association event volunteer.
-- **Beyond code:** cricket, music, games, and learning Spanish—a **397-day Duolingo streak** so far.
+- **Beyond code:** cricket, music, games, and learning Spanish. I achieved a **397-day Duolingo streak**.
 
 I’m interested in software engineering internships and opportunities to learn alongside thoughtful builders. Long term, I hope to contribute to Nepal’s technology community.
 
